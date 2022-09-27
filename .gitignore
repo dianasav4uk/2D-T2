@@ -1,13 +1,12 @@
 ###
 # Unity folders and files
 ###
+[Aa]ssets/AssetStoreTools*
 [Bb]uild/
-[Bb]uilds/
 [Ll]ibrary/
 [Ll]ocal[Cc]ache/
 [Oo]bj/
 [Tt]emp/
-[Ll]ogs/
 [Uu]nityGenerated/
 # file on crash reports
 sysinfo.txt
@@ -20,7 +19,6 @@ sysinfo.txt
 [Ee]xportedObj/
 *.booproj
 *.csproj
-*.unityproj
 *.sln
 *.suo
 *.svd
@@ -28,9 +26,6 @@ sysinfo.txt
 *.user
 *.userprefs
 *.pidb
-*.mdb
-*.opendb
-*.VC.db
 .DS_Store
 
 ###
